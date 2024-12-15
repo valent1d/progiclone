@@ -52,14 +52,14 @@ Le script anonymise les tables Dolibarr suivantes :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-nom-utilisateur/doliclone
+git clone https://github.com/valent1d/progiclone
 ```
 
 ## 🔧 Utilisation
 
 ```bash
 # Exécuter le script
-python doliclone.py
+python VLTN-doliclone-script.py
 ```
 
 ## 🛡️ Options de Connexion

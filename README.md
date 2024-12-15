@@ -59,7 +59,7 @@ git clone https://github.com/valent1d/progiclone
 
 ```bash
 # Exécuter le script
-python VLTN-doliclone-script.py
+python VLTN-progiclone-script.py
 ```
 
 ## 🛡️ Options de Connexion

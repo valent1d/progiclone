@@ -1,0 +1,23 @@
+# Configuration MySQL
+mysql:
+  host: localhost
+  port: 3306
+  user: dolibarr
+  password: your_password
+  database: dolibarr_db
+
+# Configuration SSH (optionnelle)
+# Décommentez cette section si vous souhaitez utiliser un tunnel SSH
+#ssh:
+#  host: example.com
+#  port: 22
+#  user: ssh_user
+#  password: ssh_password  # Soit password soit key doit être spécifié
+#  key: ~/.ssh/id_rsa     # Chemin vers votre clé SSH privée
+
+# Tables à anonymiser (optionnel)
+# Si non spécifié, toutes les tables seront proposées
+#tables:
+#  - llx_societe
+#  - llx_socpeople
+#  - llx_user 

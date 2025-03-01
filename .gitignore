@@ -34,4 +34,7 @@ env/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Local deployment hints
+DEPLOY_HINTS.md 
